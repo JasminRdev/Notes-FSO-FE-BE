@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "content": "Feed cats.",
+      "date": "2022-04-28T12:18:18.193Z",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "read books.",
+      "date": "2022-04-28T12:18:34.055Z",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "write a song",
+      "date": "2022-04-28T12:19:36.511Z",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "prepare weekend",
+      "date": "2022-05-10T14:08:50.333Z",
+      "important": true,
+      "id": 4
+    }
+  ]
+}
