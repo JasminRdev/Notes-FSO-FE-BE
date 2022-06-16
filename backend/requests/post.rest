@@ -1,0 +1,20 @@
+POST http://localhost:3001/api/notes/ 
+content-type: application/json
+
+{
+    "content": "user id test",
+    "important": true,
+    "userId": "62990955b0291ca5d31c6814"
+}
+
+###
+POST http://localhost:3001/api/users/
+content-type: application/json
+
+{
+      "username": "Ganga",
+      "name": "Ganga creator",
+      "password": "gangaiseverything"
+    }
+
+    
